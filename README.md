@@ -42,14 +42,17 @@ Both versions store student data (ID, Name, Section, Phone Number) in a JSON fil
 ```bash
 python profile.py
 
+
 ### 🔹 GUI Version
 ```bash
 python profile_gui.py
+
 
 ##🧑‍💻 Author
 Hamza
 B.E. 3rd Semester | Learning Python & Building Projects
 💬 Always exploring — from CLI to GUI and beyond!
+
 
 ##⭐️ Support
 If you find this useful or are learning from it, give it a ⭐ on GitHub!
